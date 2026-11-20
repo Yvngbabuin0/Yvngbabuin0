@@ -24,7 +24,7 @@ un equipo de desarrollo que hace software a medida para empresas y pymes.
 | [**Cafetería Flores**](https://github.com/Yvngbabuin0/eva3) | Catálogo de productos y administración para una cafetería. |
 | [**Calificaciones Tributarias**](https://github.com/Yvngbabuin0/Proyecto-Integrado-eva3) | Mantenedor de calificaciones tributarias. |
 
-Los proyectos privados son trabajos para clientes: el código no es público.
+Los proyectos marcados como privados no tienen el código público.
 
 ## Stack
 
