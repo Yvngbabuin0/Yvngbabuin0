@@ -1,7 +1,8 @@
 # Jordan Varas
 
-Desarrollador full stack en Antofagasta, Chile. Construyo aplicaciones web,
-apps móviles, bases de datos e IoT. Parte de [**Starless**](https://github.com/Starless-org),
+Estudiante de 4º año de Ingeniería en Informática en INACAP y desarrollador
+full stack en Antofagasta, Chile. Construyo aplicaciones web, apps móviles,
+bases de datos e IoT. Parte de [**Starless**](https://github.com/Starless-org),
 un equipo de desarrollo que hace software a medida para empresas y pymes.
 
 ## Proyectos
